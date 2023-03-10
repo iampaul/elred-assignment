@@ -18,7 +18,11 @@ Mar 8 to Mar 10
 
 > Github: https://github.com/iampaul/elred-assignment
 
-> Swagger Doc:
+> Swagger Doc: https://13.54.159.103:3000/docs/  
+
+(Please open swagger url in unsafe mode as I used free ssl certificate in AWS EC2)
+
+<img src ="https://snipboard.io/b1Np6I.jpg">
 
 > Tech Stack
 
